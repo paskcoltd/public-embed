@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 25.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 1200 120" style="enable-background:new 0 0 1200 120;" xml:space="preserve">
+	 viewBox="0 0 1200 81" style="enable-background:new 0 0 1200 81;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:url(#SVGID_1_);}
 	.st1{fill:url(#SVGID_2_);}
 	.st2{opacity:0;}
-	.st3{font-family:'GenYoGothicTW-M';}
-	.st4{font-size:60px;}
 </style>
 <symbol  id="New_Symbol" viewBox="-53.24 -38.89 106.48 77.78">
 	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-53.2931" y1="18.3837" x2="72.7069" y2="-41.0946">
@@ -27,6 +25,9 @@
 			<rect x="-29.15" y="-27.5" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -0.4836 -1.1676)" class="st2" width="55" height="55"/>
 	</g>
 </symbol>
-<text transform="matrix(1 0 0 1 126.2446 82.7863)" class="st3 st4">法國專利特許 定位滑軌設計</text>
-<use xlink:href="#New_Symbol"  width="106.48" height="77.78" id="XMLID_1_" x="-53.24" y="-38.89" transform="matrix(0.7717 0 0 -0.7717 69.305 60)" style="overflow:visible;"/>
+<symbol  id="New_Symbol_2" viewBox="-396.81 -57.78 793.62 115.56">
+	<text transform="matrix(1 0 0 -1 -396.8096 4.98)" style="font-family:'NotoSansCJKtc-Bold-B5pc-H'; font-size:60px;">定位滑軌設計 法國專利局認證</text>
+</symbol>
+<use xlink:href="#New_Symbol_2"  width="793.62" height="115.56" x="-396.81" y="-57.78" transform="matrix(1 0 0 -1 518.3584 68.2661)" style="overflow:visible;"/>
+<use xlink:href="#New_Symbol"  width="106.48" height="77.78" id="XMLID_1_" x="-53.24" y="-38.89" transform="matrix(0.72 0 0 -0.72 69.305 40.5)" style="overflow:visible;"/>
 </svg>
