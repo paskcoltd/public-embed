@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1200 120" style="enable-background:new 0 0 1200 120;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:url(#SVGID_2_);}
+	.st2{opacity:0;}
+	.st3{font-family:'GenYoGothicTW-M';}
+	.st4{font-size:60px;}
+</style>
+<symbol  id="New_Symbol" viewBox="-53.24 -38.89 106.48 77.78">
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-53.2931" y1="18.3837" x2="72.7069" y2="-41.0946">
+		<stop  offset="0" style="stop-color:#7F47DD"/>
+		<stop  offset="0.5169" style="stop-color:#FBAE17"/>
+		<stop  offset="1" style="stop-color:#FBAE17"/>
+	</linearGradient>
+	<polygon class="st0" points="24.54,0 -14.35,-38.89 -53.24,0 -14.35,38.89 	"/>
+	<g>
+		<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="-48.0636" y1="29.4617" x2="77.9364" y2="-30.0165">
+			<stop  offset="0" style="stop-color:#7F47DD"/>
+			<stop  offset="0.5169" style="stop-color:#FBAE17"/>
+			<stop  offset="1" style="stop-color:#FBAE17"/>
+		</linearGradient>
+		<polygon class="st1" points="53.24,0 14.35,-38.89 -24.54,0 14.35,38.89 		"/>
+		
+			<rect x="-29.15" y="-27.5" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -0.4836 -1.1676)" class="st2" width="55" height="55"/>
+	</g>
+</symbol>
+<text transform="matrix(1 0 0 1 126.2446 82.7863)" class="st3 st4">法國專利特許 定位滑軌設計</text>
+<use xlink:href="#New_Symbol"  width="106.48" height="77.78" id="XMLID_1_" x="-53.24" y="-38.89" transform="matrix(0.7717 0 0 -0.7717 69.305 60)" style="overflow:visible;"/>
+</svg>
